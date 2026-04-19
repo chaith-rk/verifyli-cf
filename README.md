@@ -1,4 +1,4 @@
-# Verifyli
+# Verifyli™
 
 **AI voice agents for automated verification calls.**
 
